@@ -20,7 +20,7 @@ window.onscroll = () => {
 
 document.getElementById('downloadButton').addEventListener('click', function() {
   // Replace 'your-pdf-file.pdf' with the actual URL of your PDF file
-  var pdfUrl = './images/resume.pdf';
+  var pdfUrl = './images/omkar2.pdf';
 
   // Create a hidden anchor element
   var anchor = document.createElement('a');
